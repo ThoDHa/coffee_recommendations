@@ -19,11 +19,11 @@ run the following in terminal and follow the prompts.
 
 ## Milestones
 1. Installing Rust
-2. Get first API from reddit
-3. Find posts that are reccomendation posts
-4. Parse the comments for coffee shop
-5. Generate JSON object with city, coffee shops.
-6. Find a way to get link to coffee shop websites.
+2. Get a list of states/cities in the U.S.
+3. Perform searches on the different subreddits for coffee reccommendation request's
+4. Figure out how to parse the name of coffee shops in the comments. 
+5. Find a way to get link to coffee shop websites.
+6. Output the list into a json file.
 
 ## Things we can add to It
 
